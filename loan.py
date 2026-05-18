@@ -33,7 +33,7 @@ from sklearn.linear_model import LogisticRegression
 model=LogisticRegression(max_iter=1000)
 model.fit(x_train,y_train)
 
-\
+
 data=[1,0,1,1,5000,1000.0,100.0,360.0,1,2]
 def predict(model,data):
     p=model.predict([data])
