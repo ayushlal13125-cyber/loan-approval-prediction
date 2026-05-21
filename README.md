@@ -12,6 +12,16 @@ Built using Python, Scikit-learn, and Streamlit.
 🔗 https://loan-approval-prediction-ptjscpfdtotqsau6fdtxpt.streamlit.app/
 
 ---
+# 🌍 Real-World Usage
+
+This project can be used as a basic loan screening system to help financial institutions and fintech platforms quickly estimate whether a loan application is likely to be approved or rejected based on applicant details.
+
+It can assist in:
+
+- Faster preliminary loan evaluation
+- Reducing manual verification workload
+
+The project demonstrates how machine learning can be integrated with an interactive web application for real-time predictions.
 
 # 📌 Features
 
