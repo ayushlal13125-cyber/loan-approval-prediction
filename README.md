@@ -59,7 +59,7 @@ loan-prediction-app/
 
 The project uses:
 
-## Logistic Regression
+## RandomForestClassifier
 
 for predicting loan approval status based on:
 
