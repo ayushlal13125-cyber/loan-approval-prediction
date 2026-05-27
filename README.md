@@ -46,11 +46,13 @@ The project demonstrates how machine learning can be integrated with an interact
 
 ```bash
 loan-prediction-app/
-│
-├── app.py
-├── train.csv
-├── requirements.txt
-└── README.md
+
+
+app.py
+ train.csv
+ requirements.txt
+ README.md
+
 ```
 
 ---
@@ -114,11 +116,6 @@ streamlit run app.py
 
 The dataset contains loan application details including applicant information, financial details, and loan approval status.
 
----
-
-# 🙌 Author
-
-Developed by Ayush Lal
 
 ---
 
