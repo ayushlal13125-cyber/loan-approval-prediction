@@ -170,6 +170,6 @@ elif page == "📊 Model Insights":
 
 else:
     st.title("About LoanGuard AI")
-    st.info("Professional ML-based Loan Approval System")
+    st.info("A beginner ML-based Loan Approval System")
 
 st.caption("© 2026 LoanGuard AI ")
